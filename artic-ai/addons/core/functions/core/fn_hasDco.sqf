@@ -1,0 +1,8 @@
+/*
+ * ARTIC AI
+ * Copyright (C) 2026 ARTIC AI contributors
+ * SPDX-License-Identifier: GPL-2.0-only
+ * Licensed under the GNU General Public License v2.0 only. See LICENSE and CREDITS.md.
+ */
+/* ARTIC_fnc_hasDco: true if DCO Soldier FSM is loaded. */
+isClass (configFile >> "CfgPatches" >> "soldierFSM")
